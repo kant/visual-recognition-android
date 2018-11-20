@@ -3,13 +3,13 @@
 
 # Create an Android application in Java which uses image recognition
 
-The Bluemix Mobile Starter for Watson Visual Recognition showcases the Visual Recognition service from Watson and gives you integration points for each of the Bluemix Mobile services.
+The IBM Cloud Mobile Starter for Watson Visual Recognition showcases the Visual Recognition service from Watson and gives you integration points for each of the IBM Cloud Mobile services.
 
 ## Requirements
 
-* A [Bluemix](http://bluemix.net) Account
-* [Android Studio](https://developer.android.com/studio/index.html) and [Gradle](https://gradle.org/gradle-download/)
-* A [Bluemix Account](https://www.bluemix.net/)
+* An [IBM Cloud](http://bluemix.net) account
+* [Android Studio](https://developer.android.com/studio/index.html)
+* [Gradle](https://gradle.org/gradle-download/)
 
 ## Configuration
 
