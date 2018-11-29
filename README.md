@@ -5,6 +5,8 @@
 
 The IBM Cloud Mobile Starter for Watson Visual Recognition showcases the Visual Recognition service from Watson and gives you integration points for each of the IBM Cloud Mobile services.
 
+![](README_Images/architecture.png)
+
 ## Requirements
 
 * An [IBM Cloud](http://bluemix.net) account
