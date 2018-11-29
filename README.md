@@ -3,6 +3,8 @@
 
 # Create an Android application in Java which uses image recognition
 
+> We have a similar pattern available for [iOS](https://github.com/IBM/visual-recognition-ios), as well!
+
 The IBM Cloud Mobile Starter for Watson Visual Recognition showcases the Visual Recognition service from Watson and gives you integration points for each of the IBM Cloud Mobile services.
 
 ![](README_Images/architecture.png)
