@@ -5,7 +5,12 @@
 
 > We have a similar pattern available for [iOS](https://github.com/IBM/visual-recognition-ios), as well!
 
-The IBM Cloud Mobile Starter for Watson Visual Recognition showcases the Visual Recognition service from Watson and gives you integration points for each of the IBM Cloud Mobile services.
+In this code pattern, you will create an Android app that showcases computer vision by labeling what the device's camera sees. You will provision a Visual Recognition service where you can either leverage a demo model or train your own custom model.
+
+When you have completed this code pattern, you will understand how to:
+
+* Customize Watson Visual Recognition for your unique use case
+* View the labels related to a picture and the estimated accuracy of that label
 
 ![](README_Images/architecture.png)
 
